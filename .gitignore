@@ -1,0 +1,14 @@
+# ignore everything in the "vendor" directory, except:
+# "composer", "autoload.php"
+vendor/*
+!vendor/composer/
+!vendor/autoload.php
+
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.lock
+*.log
+*.sql
+*.sqlite
