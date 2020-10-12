@@ -7,7 +7,7 @@
 ### Features
   - After activating the plugin, a sub-item called "Post icon" will appear in the "Settings" section.
   - Activation / deactivation of the plugin
-  - Select the posts to which the icon is attached
+  - Select the Posts\Pages\Products  to which the icon is attached
   - Icon selection (using WP's built-in font icons [Dashicons])
   - Select icon position (left, right)
 
