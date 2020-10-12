@@ -1,0 +1,16 @@
+.post-icon {
+
+  font-size: inherit;
+  display: inline;
+  vertical-align: bottom;
+  line-height: inherit;
+
+  &.pi-right {
+    margin-left: .3rem;
+  }
+
+  &.pi-left {
+    margin-right: .3rem;
+  }
+
+}
