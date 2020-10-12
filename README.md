@@ -11,7 +11,7 @@
   - Icon selection (using WP's built-in font icons [Dashicons]).
   - Select icon position (left, right).
   - Icons will be shown both on the single post\page\product and on the loop
-  = To be able to assign an icon to a product, woocommerce must be installed and activated. Product must be published.
+  - To be able to assign an icon to a product, woocommerce must be installed and activated. Product must be published.
 
 ### Built with
 
